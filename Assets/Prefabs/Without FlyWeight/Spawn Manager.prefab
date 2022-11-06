@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1974563791198125372}
   - component: {fileID: 1974563791198125371}
   m_Layer: 0
-  m_Name: Boid Manager
+  m_Name: Spawn Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
